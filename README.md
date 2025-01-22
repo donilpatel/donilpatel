@@ -1,12 +1,12 @@
 # About Me:
 
 <h1 align="center">Hi 👋, I'm Donil Patel</h1>
-<h3 align="center">I'm passionate about creating impactful projects in front-end development, data analytics, and robotics.  </h3>
+<h3 align="center">I'm passionate about creating impactful projects in data analytics & front-end development  </h3>
 
 
 ## 🚀 Current Focus:
 - 📚 Exploring **React**, **Vue**, and **GSAP** for dynamic web development.
-- 🤖 Leading as **VP of Software Development** for **Laurier Robotics**, fostering innovation in robotics and software solutions.
+- 🤖 Leading as **VP of Software Development** for **Laurier Robotics**.
 
 ## 🌟 Skills and Tools:
 - **Languages:** Python, Java, JavaScript, C/C++, SQL, VBA, R  
