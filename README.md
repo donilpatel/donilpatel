@@ -15,7 +15,7 @@
 
 ## 📫 Connect With Me!:
 - 📧 **Email:** pate7421@mylaurier.ca  
-- 💼 **LinkedIn:** [linkedin.com/in/donilpatel](https://linkedin.com/in/donilpatel)  
+- 💼 **LinkedIn:** [linkedin.com/in/donil-patel/](https://www.linkedin.com/in/donil-patel/)  
 
 ## 🏆 Certifications: 
 - **IBM Data Analyst Certificate**: Gained expertise in Python (Pandas, NumPy) and data visualization tools like Tableau while mastering data manipulation, predictive modelling, and analytics.
