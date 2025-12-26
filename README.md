@@ -1,6 +1,6 @@
 # About Me:
 
-<h1 align="center">Hi 👋, I'm Donil Patel</h1>
+<h1 align="center">Hi 👋, I'm Donil</h1>
 <h3 align="center">I'm passionate about creating impactful projects in data analytics & front-end development  </h3>
 
 
