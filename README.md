@@ -6,7 +6,6 @@
 
 ## 🚀 Current Focus:
 - 📚 Exploring **React**, **Vue**, and **GSAP** for dynamic web development.
-- 🤖 Leading as **VP of Software Development** for **Laurier Robotics**.
 
 ## 🌟 Skills and Tools:
 - **Languages:** Python, Java, JavaScript, C/C++, SQL, VBA, R  
@@ -14,7 +13,6 @@
 - **Tools:** AWS, Azure, MySQL, Power BI, Tableau, Excel  
 
 ## 📫 Connect With Me!:
-- 📧 **Email:** pate7421@mylaurier.ca  
 - 💼 **LinkedIn:** [linkedin.com/in/donil-patel/](https://www.linkedin.com/in/donil-patel/)  
 
 ## 🏆 Certifications: 
